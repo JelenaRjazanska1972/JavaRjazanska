@@ -1,0 +1,49 @@
+
+
+java:S1192"rDefine a constant instead of duplicating this literal "ĞĞ±Ñ‰Ğ°Ñ ÑÑ‚Ğ¾Ğ¸Ğ¼Ğ¾ÑÑ‚ÑŒ Ñ Ğ½Ğ°Ğ»Ğ¾Ğ³Ğ¾Ğ¼: " 4 times.(ÈÑ¸½8¡ş¾ ×1
+P
+java:S1121%".Extract the assignment out of this expression.(¼õå€øÿÿÿÿ8¡ş¾ ×1
+K
+java:S11219".Extract the assignment out of this expression.(Å©«8¡ş¾ ×1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß²ìÛûÿÿÿÿ8¡ş¾ ×1
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î“¶Ğüÿÿÿÿ8¡ş¾ ×1
+m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ÀŠ8¡ş¾ ×1
+r	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ù¬áúÿÿÿÿ8¡ş¾ ×1
+O
+java:S1199 "-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¡ş¾ ×1
+J
+java:S1199*"-Extract this nested code block into a method.(Õ²úù8¡ş¾ ×1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÆëÇúÿÿÿÿ8¢ş¾ ×1
+`
+java:S1854%">Remove this useless assignment to local variable "TotalPrice".(¼õå€øÿÿÿÿ8©ş¾ ×1
+`
+java:S1854$">Remove this useless assignment to local variable "TotalPrice".(î“¶Ğüÿÿÿÿ8©ş¾ ×1
+[
+java:S18549">Remove this useless assignment to local variable "TotalPrice".(Å©«8©ş¾ ×1
+`
+java:S18548">Remove this useless assignment to local variable "TotalPrice".(…ù¬áúÿÿÿÿ8©ş¾ ×1
+L	java:S106"+Replace this use of System.out by a logger.(–†ÌÓúÿÿÿÿ8¬ş¾ ×1
+L	java:S106"+Replace this use of System.out by a logger.(¤û¡Öıÿÿÿÿ8­ş¾ ×1
+G	java:S106"+Replace this use of System.out by a logger.(ÓÚ¼8­ş¾ ×1
+G	java:S106"+Replace this use of System.out by a logger.(•Ãè’8­ş¾ ×1
+L	java:S106"+Replace this use of System.out by a logger.(Çã›µùÿÿÿÿ8­ş¾ ×1
+L	java:S106"+Replace this use of System.out by a logger.(ññßéÿÿÿÿÿ8­ş¾ ×1
+L	java:S106"+Replace this use of System.out by a logger.(‹¦İŠÿÿÿÿÿ8­ş¾ ×1
+G	java:S106"+Replace this use of System.out by a logger.(ÈÑ¸½8­ş¾ ×1
+G	java:S106!"+Replace this use of System.out by a logger.(„Ò¶Í8®ş¾ ×1
+L	java:S106#"+Replace this use of System.out by a logger.(„ş×ûÿÿÿÿ8®ş¾ ×1
+Q
+java:S1481$"/Remove this unused "TotalPrice" local variable.(î“¶Ğüÿÿÿÿ8®ş¾ ×1
+L	java:S106%"+Replace this use of System.out by a logger.(¼õå€øÿÿÿÿ8®ş¾ ×1
+>
+java:S1116)"Remove this empty statement.(¹‘”Çúÿÿÿÿ8®ş¾ ×1
+G	java:S106*"+Replace this use of System.out by a logger.(Õ²úù8®ş¾ ×1
+G	java:S106+"+Replace this use of System.out by a logger.(•Ãè’8®ş¾ ×1
+L	java:S106-"+Replace this use of System.out by a logger.(Çã›µùÿÿÿÿ8¯ş¾ ×1
+L	java:S1062"+Replace this use of System.out by a logger.(ÉğÍ¤ÿÿÿÿÿ8¯ş¾ ×1
+L	java:S1063"+Replace this use of System.out by a logger.(Î®ëøÿÿÿÿ8¯ş¾ ×1
+G	java:S1065"+Replace this use of System.out by a logger.(„Ò¶Í8¯ş¾ ×1
+G	java:S1067"+Replace this use of System.out by a logger.(Šôá8¯ş¾ ×1
+Q
+java:S14818"/Remove this unused "TotalPrice" local variable.(…ù¬áúÿÿÿÿ8¯ş¾ ×1
+G	java:S1069"+Replace this use of System.out by a logger.(Å©«8¯ş¾ ×1

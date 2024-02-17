@@ -13,7 +13,7 @@ public class Task01 {
         System.out.println("Введите '3' для умножения");
         System.out.println("Введите '4' для деления");
         System.out.println("Введите '5' для выхода");
-
+/*
         do {
 
             System.out.println("Введите числа");

@@ -1,0 +1,10 @@
+
+b
+java:S2184"@Cast one of the operands of this integer division to a "double".(ˆÚ¢Şÿÿÿÿÿ8‡ôğ„×1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÆëÇúÿÿÿÿ8ˆôğ„×1
+L	java:S106"+Replace this use of System.out by a logger.(‰†ÿÿÿÿÿ8‘ôğ„×1
+G	java:S106
+"+Replace this use of System.out by a logger.(ÿºÉ±8’ôğ„×1
+L	java:S106"+Replace this use of System.out by a logger.(™ä•×ÿÿÿÿÿ8’ôğ„×1
+L	java:S106"+Replace this use of System.out by a logger.(çÆÿ—şÿÿÿÿ8“ôğ„×1
+]	java:S125"<This block of commented-out lines of code should be removed.(ı¶£ÿùÿÿÿÿ8ñÌö„×1

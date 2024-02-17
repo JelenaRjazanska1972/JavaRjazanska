@@ -1,0 +1,21 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÆëÇúÿÿÿÿ8ã×ç§×1
+d
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ÔÍØ8ó¨Â½Ø1
+d
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(Á³ğ8ä×Â½Ø1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8û×ç§×1
+G	java:S106"+Replace this use of System.out by a logger.(ö“Í¯8ı×ç§×1
+L	java:S106
+"+Replace this use of System.out by a logger.(ÎºÇùÿÿÿÿ8ı×ç§×1
+N
+java:S5261"1Add explicit curly braces to avoid dangling else.(ÔÍØ8ş×ç§×1
+L	java:S106"+Replace this use of System.out by a logger.(¦ÄÌÜùÿÿÿÿ8ş×ç§×1
+N
+java:S5261"1Add explicit curly braces to avoid dangling else.(á¢–¬8–©Â½Ø1
+L	java:S106"+Replace this use of System.out by a logger.(°è¸ ıÿÿÿÿ8ÿ×ç§×1
+N
+java:S5261"1Add explicit curly braces to avoid dangling else.(á¢–¬8ş×Â½Ø1
+L	java:S106"+Replace this use of System.out by a logger.(ôÁ×•úÿÿÿÿ8ÿ×ç§×1
+L	java:S106"+Replace this use of System.out by a logger.(æìàÿıÿÿÿÿ8€Øç§×1

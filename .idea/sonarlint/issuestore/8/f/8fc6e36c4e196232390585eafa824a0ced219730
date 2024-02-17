@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–£Ş¡ûÿÿÿÿ8¸ìÆºÛ1
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(é‡Úâÿÿÿÿÿ8ğÏ…»Û1
+]
+java:S1854";Remove this useless assignment to local variable "counter".(û‚ıïûÿÿÿÿ8ñÏ…»Û1
+]
+java:S1854";Remove this useless assignment to local variable "counter".(û‚ıïûÿÿÿÿ8ñÏ…»Û1
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(ó¢‰şÿÿÿÿ8ÀìÆºÛ1
+L	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ8ÁìÆºÛ1
+L	java:S106"+Replace this use of System.out by a logger.(ó¥¼¼ÿÿÿÿÿ8ÃìÆºÛ1
+G	java:S106"+Replace this use of System.out by a logger.(Ì¨Ëí8ÊôıºÛ1
+\
+java:S2123":Remove this increment or correct the code not to waste it.(û‚ıïûÿÿÿÿ8ôÏ…»Û1
+L	java:S106"+Replace this use of System.out by a logger.(ÙôË½ÿÿÿÿÿ8ôÏ…»Û1
+\
+java:S2123":Remove this increment or correct the code not to waste it.(û‚ıïûÿÿÿÿ8ôÏ…»Û1
+G	java:S106"+Replace this use of System.out by a logger.(£İ×î8ôÏ…»Û1
+G	java:S106"+Replace this use of System.out by a logger.(™‹¡œ8ôÏ…»Û1
