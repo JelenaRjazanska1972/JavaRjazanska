@@ -31,7 +31,7 @@ public class Task01 {
             else{
                 autoInfo="Информация на данный отрезок времени отсутствует";}
             break;
-        case "volkswagen":
+        case "wolkswagen":
             countryOfOrigin="Бренд Немецкого автоконцерна.";
             if (year==2020){
                 autoInfo="В 2020 году вошел в Топ - 5 по продажам в Европе.Популярные марки: Golf, Polo и Tiguan.";}
@@ -70,7 +70,7 @@ public class Task01 {
             else{
                 autoInfo="Информация на данный отрезок времени отсутствует";}
             break;
-        case "Tesla":
+        case "tesla":
             countryOfOrigin="Американская компания производитель электромобилей и решений для хранения электроэнергии .";
             if (year==2020){
                 autoInfo="В 2020 году не вошла в Топ - 5 по продажам в Европе. По состоянию на март 2020 года Tesla предлагала четыре модели автомобилей: Model S, Model 3, Model X и Model Y. ";}
