@@ -10,16 +10,18 @@ public class CalcArPer {
        double lenght = scanner.nextDouble();
         System.out.println("Введите ширину прямоугольника: " );
      double breath = scanner.nextDouble();
-        calculateArea(lenght, breath);
-        calculatePerimeter(lenght, breath);
+
+
+        System.out.println("Площадь прямоугольника: " + calculateArea(lenght,breath));
+        System.out.println("Периметр прямоугольника: " + calculatePerimeter(lenght, breath));
     }
-    public static void calculateArea(double valueFerst, double valueSecond) {
+    public static double calculateArea(double valueFerst, double valueSecond) {
         double area = valueFerst * valueSecond;
-        System.out.println("Площадь прямоугольника: " + area);
+        return area;
     }
-    public static void calculatePerimeter(double valueFerst, double valueSecond) {
+    public static double calculatePerimeter(double valueFerst, double valueSecond) {
         double perimeter = valueFerst * 2 + valueSecond * 2;
-        System.out.println("Периметр прямоугольника: " + perimeter);
+        return perimeter;
     }
     }
 
