@@ -3,42 +3,44 @@ package homework12;
 import java.util.Scanner;
 
 public class StringProcessor {
-    static Scanner scanner = new Scanner(System.in);
+    static String name = "";
 
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Введите слово: ");
-        String name = scanner.nextLine();
-        boolean check=false;
-isPalindrome(name,check);
 
-    }
-        public static String reverseString (String text){
-            char[] textOne = text.toCharArray();
-            String textNew = "";
-            for (int i = textOne.length-1; i >= 0; i--) {
-                textNew = textNew + textOne[i];
-                System.out.println(textNew);
-
+        while (true) {
+            if (scanner.hasNextInt()) {
+                System.out.println("Ошибка, введите строку");
+                scanner.nextLine();
+            } else {
+                name = scanner.nextLine().replaceAll(" ", "");
+                break;
+            }
         }
-            return textNew;
-
-}
-public static Boolean isPalindrome (String text,boolean palindrome){
-    char[] textOne = text.toCharArray();
-    String textNew = "";
-    boolean result;
-    for (int i = textOne.length-1; i >= 0; i--) {
-        textNew = textNew + textOne[i];
-        System.out.println(textNew);
+        reverseString(name);
+        System.out.println(reverseString(name));
+        isPalindrome(name);
     }
-    if (text.equals(textNew)){
-        result=true;
-    }else {
-        result = false;
+    public static String reverseString(String text) {
+        char[] textOne = text.toCharArray();
+        String textNew = "";
+        for (int i = textOne.length - 1; i >= 0; i--) {
+            textNew = textNew + textOne[i];
+        }
+        return textNew;
     }
-    {System.out.println(result);};
-    return result;
+    public static Boolean isPalindrome(String text) {
 
+        String textNew = new String(reverseString(text));
+        if (text.equals(textNew)) {
+            System.out.println("Это палиндром!");
+            return true;
+        } else {
+            System.out.println("Строки разные. Это не палиндром! ");
+            return false;
+        }
+    }
 }
 
-}
+
