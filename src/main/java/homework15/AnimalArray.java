@@ -1,9 +1,11 @@
 package homework15;
 
 import java.util.Scanner;
+
 public class AnimalArray {
     public static String[] animalSpecies = {"лев", "слон", "обезьяна"};
     public static String[] animalSounds = {"рррр", "туууу", "ух - ух - ух - яаааа"};
+
     public static void main(String[] args) {
         printAnimalSounds();
         Scanner scanner = new Scanner(System.in);
@@ -27,14 +29,16 @@ public class AnimalArray {
             if (animal.equals(animalSpecies[i])) {
                 String sound = animalSounds[i];
                 System.out.println("Животное " + animal + " издает звук: " + sound);
-                break;
+
             } else {
-                System.out.println("Информация не найдена!");
-                break;
+                System.out.println("Нет информации!");
             }
         }
     }
 }
+
+
+
 
 
 
